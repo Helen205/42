@@ -1,0 +1,5 @@
+Credentials cache: API:BA687CCF-FCCE-486A-A456-80C460DDAD0A
+        Principal: huzuncay@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Feb 14 10:35:31 2022  Feb 14 20:35:19 2022  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
